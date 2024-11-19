@@ -10,10 +10,14 @@ These bots support various tokens and chains, are fully operational, and are con
 ### **Raydium and Pumpfun Sniper**  
 - Automates tracking of new pools and executes purchases using multiple transaction services. 
 
+[![Volume Bot V2 Demo](https://img.youtube.com/vi/ji_oXmmiYOg/0.jpg)](https://youtu.be/ji_oXmmiYOg "Click to Watch Volume Bot V2 Demo")
+
 ---
 
 ### **Raydium and Pumpfun Bundler**  
 - Creates a raydium and pumpfun pool and enables dev to buy tokens in the first block using Jito bundling.
+
+[![Volume Bot V2 Demo](https://img.youtube.com/vi/ji_oXmmiYOg/0.jpg)](https://youtu.be/uV7I7g9rh74 "Click to Watch Volume Bot V2 Demo")
 
 ---
 
