@@ -8,44 +8,20 @@ These bots support various tokens and chains, are fully operational, and are con
 ## 🚀 Projects Overview  
 
 ### **Raydium and Pumpfun Sniper**  
-- A high-performance bot optimized for Raydium and Pumpfun ecosystems.  
+- Automates tracking of new pools and executes purchases using multiple transaction services. 
 
 ---
 
 ### **Raydium and Pumpfun Bundler**  
-- A bundler bot designed for efficiency and speed in bundling transactions.  
+- Creates a raydium and pumpfun pool and enables dev to buy token in the first block using jito bundling.
 
 ---
 
 ### **Volume Bot V2**  
-- An advanced bot for tracking and executing trades based on market volume analysis.  
+- Manages market caps and volume of pools with strategic interventions to maintain or increase market cap or liquidity.
 
 ---
 
-### **Maker Bot**  
-- A bot crafted for creating and managing liquidity pools effortlessly.  
-
----
-
-### **Shit Token Launcher**  
-- A lightweight bot to help launch tokens with minimal friction.  
-
----
-
-### **Token Freezer**  
-- A smart contract bot designed for freezing tokens with configurable durations.  
-
----
-
-### **Token Locker Smart Contract**  
-- A reliable solution for locking tokens securely with user-defined parameters.  
-
----
-
-### **Presale-IDO Smart Contract**  
-- A versatile smart contract for managing presale and IDO events.  
-
----
 
 ## 📬 Contact  
 
