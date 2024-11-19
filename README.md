@@ -20,7 +20,9 @@ These bots support various tokens and chains, are fully operational, and are con
 ### **Volume Bot V2**  
 - Manages market caps and volume of pools with strategic interventions to maintain or increase market cap or liquidity.  
 
-[![Volume Bot V2 Demo](https://img.youtube.com/vi/ji_oXmmiYOg/0.jpg)](https://youtu.be/ji_oXmmiYOg "Watch Demo Video")
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ji_oXmmiYOg" title="Volume Bot V2 Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ---
 
