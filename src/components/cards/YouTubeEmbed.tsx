@@ -7,9 +7,9 @@ interface YouTubeEmbedProps {
 
 const YouTubeEmbed: React.FC<YouTubeEmbedProps> = ({ videoId, title }) => {
   return (
-    <div className="flex justify-center items-center my-5">
+    <div className="flex justify-center items-center h-full">
       <iframe
-        className="w-full max-w-2xl aspect-video border-none"
+        className="w-full max-w-2xl h-[350px] aspect-video border-none rounded-lg bg-black"
         src={`https://www.youtube.com/embed/${videoId}`}
         title={title}
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
