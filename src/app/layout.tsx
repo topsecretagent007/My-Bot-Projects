@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Bot Sales V1",
-  description: "Lendon's Trading Bot Sales Site",
+  description: "This is Trading Bot Sales Site. Volume bot and Bundling bot and sniper bot, arbitrage bot, copy trading bot etc. I am bot developer.",
 };
 
 export default function RootLayout({
