@@ -1,0 +1,129 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .container {
+    @apply w-full mx-auto max-w-[1440px];
+  }
+}
+
+@font-face {
+  font-family: "Orbitron";
+  src: url("/fonts/Orbitron-Font/Orbitron-Black.ttf") format('truetype');
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+  background: #e0e0e7;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: white;
+  border-radius: 5px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #26c3ff;
+  border-radius: 5px;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.no-scrollbar {
+  -ms-overflow-style: none;
+  /* IE and Edge */
+  scrollbar-width: none;
+  /* Firefox */
+}
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb));
+}
+
+.shadow-btn-inner {
+  background-color: transparent !important;
+  color: white !important;
+  border-radius: 50px;
+  border: solid 1px #26c3ff !important;
+  box-shadow: none;
+}
+
+.shadow-btn-inner:hover {
+  background-color: #26c3ff !important;
+  border-radius: 50px;
+}
+
+.shadow-btn-inner div ul {
+  background-color: black !important;
+  color: white !important;
+  border-radius: 5px;
+  border: solid 1px #26c3ff !important;
+  box-shadow: none;
+}
+
+.shadow-btn-inner div ul li button {
+  font-size: 18px !important;
+  padding: 6px 2px;
+}
+
+.shadow-btn-inner div ul li:hover {
+  background-color: #26c3ff !important;
+}
+
+.harlow {
+  font-family: "Orbitron";
+}
+
+@keyframes image-bounce {
+
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+
+  40% {
+    transform: translateY(-30px);
+  }
+
+  60% {
+    transform: translateY(-15px);
+  }
+}
+
+.image-bounce {
+  display: inline-block;
+  animation: bounce 2s infinite;
+}
+
+#chartsTextGroup0 {
+  color: white !important;
+}
