@@ -35,8 +35,8 @@ export default function BotList() {
               <div className="w-full flex flex-col text-start items-start font-semibold px-2 xs:text-lg">
                 The Raydium and PumpFun Sniper bots are designed to bundle buy with multiple wallets without making another wallets buy faster than creator, ensuring that pool creator is always the first buyers of the pool that he created. This tool once used correclty, is very good start for a potential project.
               </div>
-              <div className="w-full justify-between items-center flex flex-row px-2 text-md font-semibold text-[#64ffda]">
-                <a href="https://github.com/topsecretagent007/raydium-bundler" className="text-white bg-[#58c0a8] hover:bg-[#64ffda] justify-end flex flex-row items-center gap-2 cursor-pointer border-[1px] border-white rounded-full px-3 py-1">
+              <div className="w-full justify-ends items-center flex flex-row px-2 text-md font-semibold text-[#64ffda]">
+                <a href="https://github.com/topsecretagent007/raydium-bundler" className="text-white bg-[#58c0a8] hover:bg-[#64ffda] justify-end flex flex-row items-center gap-2 cursor-pointer border-[1px] border-white rounded-full p-3">
                   <RiLogoutCircleRLine />
                 </a>
               </div>
@@ -57,8 +57,8 @@ export default function BotList() {
                 The Raydium and PumpFun Sniper bots are designed to catch the pool at the creation time and make the buy transactions, and send it with jito transaction with proper fee, which boost the transaction speed very fastly.
                 It makes you to buy token faster than any others in the potential token pools.
               </div>
-              <div className="w-full justify-between items-center flex flex-row px-2 text-md font-semibold text-[#64ffda]">
-                <a href="https://github.com/topsecretagent007/raydium-sniper" className="text-white bg-[#58c0a8] hover:bg-[#64ffda] justify-end flex flex-row items-center gap-2 cursor-pointer border-[1px] border-white rounded-full px-3 py-1">
+              <div className="w-full justify-end items-center flex flex-row px-2 text-md font-semibold text-[#64ffda]">
+                <a href="https://github.com/topsecretagent007/raydium-sniper" className="text-white bg-[#58c0a8] hover:bg-[#64ffda] justify-end flex flex-row items-center gap-2 cursor-pointer border-[1px] border-white rounded-full p-3">
                   <RiLogoutCircleRLine />
                 </a>
               </div>
@@ -76,8 +76,8 @@ export default function BotList() {
               <div className="w-full flex flex-col text-start items-start font-semibold px-2 xs:text-lg">
                 The Raydium and PumpFun Sniper bots are designed for fast and automated trading on specific platforms, targeting opportunities like token launches and sudden price movements. They use real-time data monitoring, API integration, and precise algorithms to execute trades instantly. The bots are optimized for speed, security, and reliability, with customizable settings for user-specific strategies.
               </div>
-              <div className="w-full justify-between items-center flex flex-row px-2 text-md font-semibold text-[#64ffda]">
-                <a href="https://github.com/topsecretagent007/raydium-sniper" className="text-white bg-[#58c0a8] hover:bg-[#64ffda] justify-end flex flex-row items-center gap-2 cursor-pointer border-[1px] border-white rounded-full px-3 py-1">
+              <div className="w-full justify-end items-center flex flex-row px-2 text-md font-semibold text-[#64ffda]">
+                <a href="https://github.com/topsecretagent007/raydium-sniper" className="text-white bg-[#58c0a8] hover:bg-[#64ffda] justify-end flex flex-row items-center gap-2 cursor-pointer border-[1px] border-white rounded-full p-3">
                   <RiLogoutCircleRLine />
                 </a>
               </div>
@@ -91,8 +91,8 @@ export default function BotList() {
               <div className="w-full flex flex-col text-start items-start font-semibold px-2 xs:text-lg">
                 The Raydium and Pumpfun volume bot is designed to boost volume of the current pools in dexs like rayidum and pumpfun, with continuous buy and sell swap transactions, making it a very good tool to control the volume of the pool.
               </div>
-              <div className="w-full justify-between items-center flex flex-row px-2 text-md font-semibold text-[#64ffda]">
-                <a href="https://github.com/topsecretagent007/volume-bot" className="text-white bg-[#58c0a8] hover:bg-[#64ffda] justify-end flex flex-row items-center gap-2 cursor-pointer border-[1px] border-white rounded-full px-3 py-1">
+              <div className="w-full justify-end items-center flex flex-row px-2 text-md font-semibold text-[#64ffda]">
+                <a href="https://github.com/topsecretagent007/volume-bot" className="text-white bg-[#58c0a8] hover:bg-[#64ffda] justify-end flex flex-row items-center gap-2 cursor-pointer border-[1px] border-white rounded-full p-3">
                   <RiLogoutCircleRLine />
                 </a>
               </div>
