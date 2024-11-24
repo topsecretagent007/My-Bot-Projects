@@ -11,7 +11,6 @@ export default function OtherBotsCard({ data }: { data: any }) {
       <div className="w-full justify-between items-center flex flex-row px-2 text-md font-semibold text-[#64ffda]">
         <div className="">{data.price}</div>
         <a href={data.link} className="w-full justify-end flex flex-row items-center gap-2 cursor-pointer">
-          Private
           <RiLogoutCircleRLine />
         </a>
       </div>
