@@ -35,7 +35,7 @@ export default function BotList() {
               <div className="w-full flex flex-col text-start items-start font-semibold px-2 xs:text-lg">
                 The Raydium and PumpFun Sniper bots are designed to bundle buy with multiple wallets without making another wallets buy faster than creator, ensuring that pool creator is always the first buyers of the pool that he created. This tool once used correclty, is very good start for a potential project.
               </div>
-              <div className="w-full justify-ends items-center flex flex-row px-2 text-md font-semibold text-[#64ffda]">
+              <div className="w-full justify-end items-center flex flex-row px-2 text-md font-semibold text-[#64ffda]">
                 <a href="https://github.com/topsecretagent007/raydium-bundler" className="text-white bg-[#58c0a8] hover:bg-[#64ffda] justify-end flex flex-row items-center gap-2 cursor-pointer border-[1px] border-white rounded-full p-3">
                   <RiLogoutCircleRLine />
                 </a>
