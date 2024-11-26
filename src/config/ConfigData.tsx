@@ -12,7 +12,7 @@ export const SocialLink = [
 
 export const OtherBotsData = [
   {
-    name: "Arbitrage bot", link: "https://github.com/topsecretagent007/arbitrage-bot-v3", description: "The Arbitrage bot is the script that fetches the profit possibility in several dexs by catching price indifference in dexs like meteora, pumpfun, raydium and orca. It can make profit in long term with huge profit, if you can supply good RPC and server to run 24/7."
+    name: "Arbitrage bot (In development)", link: "https://github.com/topsecretagent007/arbitrage-bot-v3", description: "The Arbitrage bot is the script that fetches the profit possibility in several dexs by catching price indifference in dexs like meteora, pumpfun, raydium and orca. It can make profit in long term with huge profit, if you can supply good RPC and server to run 24/7."
   },
   {
     name: "Shit Token Launcher", link: "https://github.com/topsecretagent007/shit-token-launcher", description: "The Shit Token Launcher launches the token on the Raydium and makes you to rug pull in short time, rugging the snipers SOL, it is over trend now, I am releasing this tool to who want to get to know deeper about this tool or technical stuff with raydium."
@@ -25,6 +25,9 @@ export const OtherBotsData = [
   },
   {
     name: "Maker Bot", link: "https://github.com/topsecretagent007/maker-bot", description: "The Maker Bot is designed to automatically place buy or sell orders on a trading platform based on predefined strategies. The speed and transaction fee is so fast and small, so it is very optimized tool."
+  },
+  {
+    name: "Comment Bot (In development)", link: "https://github.com/topsecretagent007/commet-bot", description: "The Comment Bot is a powerful automation tool designed to boost engagement and save time on your social media platforms. Whether you're managing a personal profile or a business account, this bot ensures you stay active and interactive without the extra effort."
   },
   {
     name: "New Bot", link: "https://github.com/topsecretagent007/", description: "Currently I am developing a new bot that users will like. Please keep watching and supporting me."
