@@ -3,7 +3,7 @@ import { PiGithubLogoFill } from "react-icons/pi";
 import { MdEmail } from "react-icons/md";
 
 export const SocialLink = [
-  { name: "twitter", icon: <FaTwitter />, url: "https://x.com/lenon1114" },
+  { name: "twitter", icon: <FaTwitter />, url: "https://x.com/lendon1114" },
   { name: "telegram", icon: <FaTelegramPlane />, url: "https://t.me/topsecretagent_007" },
   { name: "github", icon: <PiGithubLogoFill />, url: "https://github.com/topsecretagent007" },
   { name: "youtube", icon: <FaYoutube />, url: "https://www.youtube.com/@LendonBracewell" },
