@@ -10,8 +10,8 @@ export default function OtherBotsCard({ data }: { data: any }) {
       </div>
       <div className="w-full justify-between items-center flex flex-row px-2 text-md font-semibold text-[#64ffda]">
         <div className="">{data.price}</div>
-        <a href={data.link} className="w-full justify-end flex flex-row items-center gap-2 cursor-pointer">
-          <RiLogoutCircleRLine />
+        <a href="https://t.me/topsecretagent_007" className="text-white bg-[#58c0a8] hover:bg-[#64ffda] justify-end flex flex-row items-center gap-2 cursor-pointer border-[1px] border-white rounded-full px-2 py-1 text-sm font-mono">
+          Please Contact Me <RiLogoutCircleRLine />
         </a>
       </div>
     </div>
